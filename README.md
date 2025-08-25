@@ -21,7 +21,7 @@ _<br>software & marketing programs_
   Encourage users to open new tabs for steps!
 -->
 
-### Growth Zone, Promote and Advertise Supported by Discord Community
+### Growth Zone, Promote & Advertise Supported by Discord Community
 ___Gaming Marketplace___
 
 _Simple, Organic, Old School.._
