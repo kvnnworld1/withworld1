@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# withworld_1 🌐 by -{kvnn
+# withworld_1 by -{kvnn
 Work in progress !
 _<br>software & marketing programs_
 
