@@ -8,8 +8,8 @@
 -->
 
 # withworld_1 by -{kvnn
-Work in progress !
-_<br>software & marketing programs_
+Work in progress!
+_<br>gaming software & marketing programs_
 
 </header>
 
@@ -21,8 +21,8 @@ _<br>software & marketing programs_
   Encourage users to open new tabs for steps!
 -->
 
-### Growth Zone, Promote & Advertise Supported by Discord Community
-___Master Farmer, Gaming Marketplace.___
+### Gaming Growth Zone, Promote & Advertise Supported by Discord Community
+___Master Farmer, Gaming & Marketplace.___
 
 _Simple, Organic, Old School.._
 
