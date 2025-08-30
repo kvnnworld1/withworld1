@@ -22,7 +22,7 @@ _<br>software & marketing programs_
 -->
 
 ### Growth Zone, Promote & Advertise Supported by Discord Community
-___Master Farmer Gaming Marketplace___
+___Master Farmer, Gaming Marketplace.___
 
 _Simple, Organic, Old School.._
 
