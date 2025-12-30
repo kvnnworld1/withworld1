@@ -30,7 +30,7 @@ _Simple, Organic, Old School.._
 ---
 <br> 🌐 [KvnnAccountStorage](https://kvnnstorage.mysellauth.com)
 <br>❤️‍🔥 [Support us via ko-fi.com](https://ko-fi.com/thelegionmg)
-<br>🔗 [Chat with us on Discord](https://discord.gg/zKeN743a95)
+<br>🔗 [Join our Discord](https://discord.gg/zKeN743a95)
 
 For more Info, please refer our [Wiki](https://github.com/kvnnworld1/world1/wiki)
 ---
